@@ -12,4 +12,5 @@ urlpatterns = [
 	path('index/', views.index, name = 'index'),
 	path('list/', api.UserListView.as_view(), name = 'user_list'),
 	path('create/', api.UserCreateView.as_view(), name = 'user_create'),
+	path('change-password/', auth_views.PasswordChangeView.as_view()),
 ]
