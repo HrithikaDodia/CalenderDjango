@@ -1,4 +1,5 @@
 Steps to run the Django Calender Project:
+
 •	First of all to run the project you have to clone the project to get the project folder into your machine. For that run –                                                                                            git clone https://github.com/HrithikaDodia/CalenderDjango.git 
 By running this command the project folder will be cloned into your current folder.
 
