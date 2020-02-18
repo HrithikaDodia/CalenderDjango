@@ -3,7 +3,7 @@ Steps to run the Django Calender Project:
 By running this command the project folder will be cloned into your current folder.
 
 •	Create a virtual environment –
-virtualenv env - -no-site-packages
+virtualenv env --no-site-packages
 
 •	Start the virtual environment –
 env\Scripts\activate
